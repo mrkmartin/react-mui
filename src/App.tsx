@@ -1,4 +1,4 @@
-import "./App.css";
+import './App.css';
 // import { MuiTypography } from './components/MuiTypography';
 // import { MuiButton } from './components/MuiButton';
 // import { MuiTextField } from './components/MuiTextField';
@@ -12,17 +12,12 @@ import "./App.css";
 // import { MuiCard } from './components/MuiCard';
 // import { MuiAccordion } from './components/MuiAccordion';
 // import { MuiImageList } from "./components/MuiImageList";
-<<<<<<< HEAD
 import { MuiNavbar } from './components/MuiNavbar';
 import { MuiLink } from './components/MuiLink';
-=======
-// import { MuiNavbar } from './components/MuiNavbar';
-import { MuiLink } from "./components/MuiLink";
->>>>>>> c9eea9e88a14d9576856969141ebf23ac2e7105d
 
 function App() {
   return (
-    <div className="App">
+    <div className='App'>
       {/* <MuiTypography></MuiTypography> */}
       {/* <MuiButton></MuiButton> */}
       {/* <MuiTextField></MuiTextField> */}
@@ -36,11 +31,7 @@ function App() {
       {/* <MuiCard></MuiCard> */}
       {/* <MuiAccordion></MuiAccordion> */}
       {/* <MuiImageList></MuiImageList> */}
-<<<<<<< HEAD
       <MuiNavbar></MuiNavbar>
-=======
-      {/* <MuiNavbar></MuiNavbar> */}
->>>>>>> c9eea9e88a14d9576856969141ebf23ac2e7105d
       <MuiLink></MuiLink>
     </div>
   );

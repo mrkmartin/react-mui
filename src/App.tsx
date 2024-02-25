@@ -31,7 +31,8 @@ import './App.css';
 // import { MuiSkeleton } from './components/MuiSkeleton';
 // import { MuiLoadingButton } from './components/MuiLoadingButton';
 // import { MuiTabs } from './components/MuiTabs';
-import { MuiTimeline } from './components/MuiTimeline';
+// import { MuiTimeline } from './components/MuiTimeline';
+import { MuiMasonry } from './components/MuiMasonry';
 
 function App() {
   return (
@@ -68,7 +69,8 @@ function App() {
       {/* <MuiSkeleton /> */}
       {/* <MuiLoadingButton /> */}
       {/* <MuiTabs /> */}
-      <MuiTimeline />
+      {/* <MuiTimeline /> */}
+      <MuiMasonry />
     </div>
   );
 }
